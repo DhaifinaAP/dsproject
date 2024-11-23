@@ -18,8 +18,8 @@ def get_requirements(file_path: str) -> List[str]:
 setup(
     name="dsproject",
     version="0.0.1",
-    author="hadijahumaira",
-    author_email="humairahadija25@gmail.com",
+    author="DhaifinaAP",
+    author_email="alifa211@mhs.unsyiah.ac.id",
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 )
